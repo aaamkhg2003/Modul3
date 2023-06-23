@@ -21,7 +21,7 @@ body {
   float:left;
 }
 
-.navbar-brand #logo.h1 { /* Restaurant name */
+.navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
   vertical-align: middle;
   color: #557c3e;
@@ -30,7 +30,8 @@ body {
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
   margin-top: 0;
-
+  padding-top: 10px;
+  padding-left: 10px;
   vertical-align: middle;
   line-height: .75;
 }
